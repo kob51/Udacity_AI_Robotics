@@ -1,5 +1,16 @@
-These are my programming exercises from the Udacity Artificial Intelligence for Robotics classes.
+This is my code from the Udacity Artificial Intelligence for Robotics class taught by Sebastian Thrun.
+
 
 TABLE OF CONTENTS
 
 1 - Localization --> General localization theory and histogram filters
+
+2 - Kalman Filter
+
+3 - Particle Filter
+
+4 - Motion Planning
+
+5 - PID Control
+
+6 - SLAM
