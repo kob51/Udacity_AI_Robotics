@@ -7,7 +7,7 @@ TABLE OF CONTENTS
 
 2 - Kalman Filter --> 1D, 2D, and 4D Kalman filter implementations
 
-3 - Particle Filter
+3 - Particle Filter --> Particle filter implementations for a bicycle model car
 
 4 - Motion Planning
 
